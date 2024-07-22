@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-from sklearn import preprocessing
-import pickle
+#from sklearn import preprocessing
+#import pickle
 import joblib
 import xgboost
 import matplotlib.pyplot as plt
